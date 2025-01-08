@@ -1,0 +1,60 @@
+# PyCharm project settings
+.idea/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+
+# Environment files
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# SQLite database files
+*.sqlite3
+
+# Build artifacts and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test artifacts
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+htmlcov/
+
+# OS/IDE configuration files
+.DS_Store
+Thumbs.db
+
+# Docker crash logs
+*.stackdump
+
+# Sensitive data
+*.key
+*.crt
+*.pem
+
+#Environment variables
+.env
